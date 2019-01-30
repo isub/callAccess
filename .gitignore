@@ -18,6 +18,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Visual Studio Files
+src/.vs
+src/*.vcx*
+src/*.sln
+src/Debug
+src/Release
+
 # =========================
 # Operating System Files
 # =========================
